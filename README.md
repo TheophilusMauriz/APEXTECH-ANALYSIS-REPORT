@@ -3,6 +3,8 @@ PostgreSQL Project
 This project tackled real-world challenges in sales performance, inventory management, supplier efficiency, and customer purchasing behavior. I cleaned, transformed, and analyzed multiple datasets using PostgreSQL to answer 9 business-critical questions.
 
 PROJECT OBJECTIVES
+
+
 This project was developed to uncover actionable insights that will help optimize sales, supply chain efficiency, and customer retention strategies.
 1.	Determine the companies top 5 best revenue generating products to ascertain the products that generates more funds to the company for the past 6 months.
 2.	 Determine the most loyal customers who has placed the most orders.
@@ -54,6 +56,8 @@ Fact_sales comprises of the following column headers
 •	Payment_method
 
 BUSINESS QUESTIONS
+
+
 •	Find the Top 5 Revenue-Generating Products Over the Last 6 Months
 •	Identify the Most Loyal Customers Who Have Placed More Than 10 Orders
 •	Find the Month With the Highest Sales Volume & Revenue
@@ -77,9 +81,13 @@ Data Cleaning was done using Excel and the following changes where made
    
 METHODOLOGY
 •	Imported datasets into SQL using PostgreSQL schema.
+
 •	Created and joined dimension and fact tables with foreign key constraints.
+
 •	Applied data transformation and filtering (e.g., status = 'Delivered', date filters).
+
 •	Aggregated and grouped data using GROUP BY, JOIN, HAVING, and window functions.
+
 •	Generated insights from cleaned and queried data.
 
 
