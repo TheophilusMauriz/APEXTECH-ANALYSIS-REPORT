@@ -1,5 +1,6 @@
 # APEXTECH-ANALYSIS-REPORT
 PostgreSQL Project
+
 This project tackled real-world challenges in sales performance, inventory management, supplier efficiency, and customer purchasing behavior. I cleaned, transformed, and analyzed multiple datasets using PostgreSQL to answer 9 business-critical questions.
 
 PROJECT OBJECTIVES
