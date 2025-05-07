@@ -73,13 +73,17 @@ Data Cleaning was done using Excel and the following changes where made
 3.	Removing Duplicates
 4.	Correcting errors in spellings
 5.	Chganging letter cases
+
+   
 METHODOLOGY
 •	Imported datasets into SQL using PostgreSQL schema.
 •	Created and joined dimension and fact tables with foreign key constraints.
 •	Applied data transformation and filtering (e.g., status = 'Delivered', date filters).
 •	Aggregated and grouped data using GROUP BY, JOIN, HAVING, and window functions.
 •	Generated insights from cleaned and queried data.
-•	
+
+
+
 KEY PERFORMANCE INDICATORS (KPIS)
 •	Total Delivered Orders: 382
 •	Top Revenue-Generating Product: Law Headphones – ₦46,863.90
@@ -151,6 +155,8 @@ Offer "frequently bought together" suggestions or discounts.
 8.	Analize the "Why" Behind Cancellations of Already Ordered Products
 Analize why products are being cancelled after order, reach out to the customers, offer them discounts or free shipping.
 Encourage them with a rebuy policy where they get free gift for reordering any product that they previously cancelled.
+
+
 
 Prepared by:
 IYAMA MAUREEN
