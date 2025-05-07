@@ -26,7 +26,7 @@ This project was developed to uncover actionable insights that will help optimiz
     
 9.	Find Customers Who Have Spent the Most in a Single Transaction
     
-10.	Provide data-driven recommendations for Sony Inc and other global electronic retailers to improve sales and future generation of revenue that would improve the companies overall productivity in coming years.
+10.	Provide data-driven recommendations for Apextech and other global electronic retailers to improve sales and future generation of revenue that would improve the companies overall productivity in coming years.
 
 5 datasets was used for this analysis.
 
